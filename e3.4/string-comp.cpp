@@ -19,6 +19,7 @@ int main()
         if (cs <= min)
             min = cs;
     }
+
     cout << endl;
     cout << "Longest: " << max << " Shortest: " << min << endl;
     return 0;
